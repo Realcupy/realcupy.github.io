@@ -36,4 +36,7 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./public
           
+    permissions:
+          contents: write
+          
          
