@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+#title = "Congo"
+# logo = "img/logo.jpg"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+
+
+title = "Realcupy_"
+
+
+
+copyright = "&copy; 2023 All Rights Reserved."
+[author]
+
+
+	name = "Hemlo!, I'm Jhonas"
+	image = "img/image.jpg"
+	headline = "🎯 on Docker Container."
+	
+	links = [
+	  { github = "https://github.com/realcupy" , linkedin = "https://linkedin.com/in/jhonascabanero", telegram = "https://t.me/realcupy" }
+	]
