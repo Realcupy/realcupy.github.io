@@ -11,7 +11,7 @@ autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = false
-footer.showAppearanceSwitcher = true
+#footer.showAppearanceSwitcher = true
 #footer.showScrollToTop = true
 
 # mainSections = ["section1", "section2"]
