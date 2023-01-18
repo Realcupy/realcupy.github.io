@@ -18,6 +18,6 @@ My native language is Filipino.
 C &bull; C++ &bull; JAVA &bull; HTML &bull; CSS &bull; Javascript &bull; MySQL &bull; PHP &bull; GO &bull; Python &bull; Docker.
 
 <font size="5">**Tools** & **Code** **Editor/s**<br></font>
-Git &bull; Bash &bull; Gitlab &bull; Wordpress &bull; VSCode
+Github &bull; Gitlab &bull; Bash &bull; Wordpress &bull; VSCode
 
 <font size ="2">BTW, I use *Ubuntu*. </font>

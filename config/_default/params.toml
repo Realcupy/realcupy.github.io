@@ -67,9 +67,3 @@ footer.showScrollToTop = true
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
