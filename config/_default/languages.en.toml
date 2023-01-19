@@ -11,7 +11,7 @@ copyright = "&copy; 2023 All Rights Reserved."
 [author]
 	name = "Hemlo! I'm Jhonas"
 	image = "img/image.jpg"
-	headline = "🎯 on Docker Container."
+	headline = "Sipping ☕ coffee right now."
 	
 	links = [
 	  { github = "https://github.com/realcupy" , linkedin = "https://linkedin.com/in/jhonascabanero", telegram = "https://t.me/realcupy" }
