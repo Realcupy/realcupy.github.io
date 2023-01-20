@@ -14,5 +14,5 @@ copyright = "&copy; 2023 All Rights Reserved."
 	headline = "Sipping ☕ coffee right now."
 	
 	links = [
-	  { github = "https://github.com/realcupy" , linkedin = "https://linkedin.com/in/jhonascabanero", telegram = "https://t.me/realcupy" }
+	  { github = "https://github.com/realcupy" , linkedin = "https://linkedin.com/in/jhonascabanero", email = "mailto:realcupy@proton.me", telegram = "https://t.me/realcupy" }
 	]
