@@ -15,9 +15,9 @@ Currently learning Docker Container, Kubernetes and advance Python.
 My native language is Filipino.
 
 <font size="5">**Dev** **Stack**<br></font>
-C &bull; C++ &bull; JAVA &bull; HTML &bull; CSS &bull; Javascript &bull; MySQL &bull; PHP &bull; GO &bull; Python &bull; Docker.
+C &bull; C++ &bull; JAVA &bull; HTML &bull; CSS &bull; Javascript &bull; MySQL &bull; PHP &bull; GO &bull; Python.
 
 <font size="5">**Tools** & **Code** **Editor/s**<br></font>
-Github &bull; Gitlab &bull; Bash &bull; Wordpress &bull; VSCode
+Github &bull; Gitlab &bull; Bash &bull; Wordpress &bull; VSCode &bull; Docker.
 
 <font size ="1">BTW, I use *Ubuntu*. </font>
