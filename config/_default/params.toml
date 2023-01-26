@@ -11,11 +11,6 @@ autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = false
-#footer.showAppearanceSwitcher = true
-#footer.showScrollToTop = true
-
-# mainSections = ["section1", "section2"]
-# robots = ""
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
@@ -39,7 +34,6 @@ enableCodeCopy = false
   showBreadcrumbs = false
   showDraftLabel = false
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -48,7 +42,6 @@ enableCodeCopy = false
   showTableOfContents = false
   showTaxonomies = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = true
@@ -63,7 +56,3 @@ enableCodeCopy = false
 
 [taxonomy]
   showTermCount = true
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
