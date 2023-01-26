@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: alphine:3.17.1
+    runs-on: alpine-3.17.1
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
