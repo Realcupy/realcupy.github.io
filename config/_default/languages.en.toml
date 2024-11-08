@@ -1,14 +1,9 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
 
 title = "Realcupy_"
 
 copyright = "&copy; 2023 All Rights Reserved."
-[author]
+[params.author]
 	name = "Hemlo! I'm Jhonas"
 	image = "img/image.png"
 	headline = "Sipping ☕ coffee right now."
