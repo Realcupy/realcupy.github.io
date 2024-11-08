@@ -1,9 +1,9 @@
 weight = 1
 
-title = "Realcupy_"
+title = "Realcupy"
 
-copyright = "&copy; 2023 All Rights Reserved."
-[params.author]
+copyright = "&copy; 2024 All Rights Reserved."
+	[params.author]
 	name = "Hemlo! I'm Jhonas"
 	image = "img/image.png"
 	headline = "Sipping ☕ coffee right now."
