@@ -6,7 +6,7 @@ copyright = "&copy; 2024 All Rights Reserved."
 	[params.author]
 	name = "Hemlo! I'm Jhonas"
 	image = "img/image.png"
-	headline = "Sipping ☕ coffee right now."
+	headline = "Prepping for Exam 📝"
 	
 	links = [
 	  { github = "https://github.com/realcupy" , linkedin = "https://linkedin.com/in/jhonascabanero", email = "mailto:realcupy@proton.me", telegram = "https://t.me/realcupy" }
