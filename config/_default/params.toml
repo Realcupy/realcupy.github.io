@@ -17,10 +17,10 @@ enableCodeCopy = false
   # logo = "img/logo.jpg"
   showTitle = true
 
-#[footer]
-#  showCopyright = true
+[footer]
+#showCopyright = true
 #  showThemeAttribution = true
-#  showAppearanceSwitcher = true
+  showAppearanceSwitcher = true
 #  showScrollToTop = true
 
 [homepage]
